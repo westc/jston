@@ -1,0 +1,26 @@
+{
+  "name": "jston",
+  "version": "1.0.0",
+  "description": "JSTON (JavaScript Typed Object Notation) functions for essentially representing any type of object as JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westc/jston.git"
+  },
+  "keywords": [
+    "TON",
+    "JSON",
+    "Typed",
+    "Object",
+    "Notation"
+  ],
+  "author": "Chris West (https://www.yourjs.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westc/jston/issues"
+  },
+  "homepage": "https://github.com/westc/jston#readme"
+}
