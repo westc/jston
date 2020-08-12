@@ -1,6 +1,6 @@
 {
-  "name": "jston",
-  "version": "1.0.0",
+  "name": "@westc/jston",
+  "version": "1.0.1",
   "description": "JSTON (JavaScript Typed Object Notation) functions for essentially representing any type of object as JSON.",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/westc/jston/issues"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
   },
   "homepage": "https://github.com/westc/jston#readme"
 }
