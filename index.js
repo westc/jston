@@ -1,3 +1,10 @@
+/**
+ * @preserve JSTON - JavaScript Typed Object Notation Parser & Interpreter
+ * Home Page - https://www.npmjs.com/package/jston
+ *
+ * Copyright (c) 2020 Christopher West
+ * Licensed under the MIT license.
+ */
 (function() {
   function toJSTON(value, space, interpret) {
     return JSON.stringify(recurseTo(value, [], interpret), null, space);
