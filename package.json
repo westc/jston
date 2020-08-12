@@ -1,6 +1,6 @@
 {
-  "name": "@westc/jston",
-  "version": "1.0.1",
+  "name": "jston",
+  "version": "1.0.2",
   "description": "JSTON (JavaScript Typed Object Notation) functions for essentially representing any type of object as JSON.",
   "main": "index.js",
   "scripts": {
