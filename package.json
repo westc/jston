@@ -1,6 +1,6 @@
 {
   "name": "jston",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JSTON (JavaScript Typed Object Notation) functions for essentially representing any type of object as JSON.",
   "main": "index.js",
   "scripts": {
